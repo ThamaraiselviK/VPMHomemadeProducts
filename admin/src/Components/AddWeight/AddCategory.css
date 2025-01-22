@@ -1,0 +1,27 @@
+.addcategory{
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 800px;
+    padding: 30px 50px;
+    margin: 20px 30px;
+    border-radius: 6px;
+    background: #fff;
+}
+.addcategory-itemfield{
+    width: 100%;
+    columns: #7b7b7b;
+    font-size: 16px;
+
+}
+.addcategory-itemfield input{
+    box-sizing: border-box;
+    width: 100%;
+    height: 50px;
+    border-radius: 4px;
+    padding-left: 15px;
+    border: 1px solid #c3c3c3;
+    outline: none;
+    color: #7b7b7b;
+    font-family: "Poppins";
+    font-size: 14px;
+}
